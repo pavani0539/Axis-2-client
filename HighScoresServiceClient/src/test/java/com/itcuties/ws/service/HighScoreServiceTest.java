@@ -182,6 +182,6 @@ public class HighScoreServiceTest {
 		Assert.assertTrue(response.getReturn() > 0);
 		
 		System.out.println("There is "+response.getReturn()+" highscores on the list.");
-		System.out.println("sample test");
+
 	}
 }
